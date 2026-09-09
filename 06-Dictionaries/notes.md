@@ -101,3 +101,12 @@ Green Fresh
 >>> squared_nums
 {0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 ```
+
+# Tuple
+
+- It is Immutable just like strings
+- Nearly all the operations we learnt previously works similarly on tuples
+- Syntax
+```python
+chai = ("Masala","Ginger","Green","Mint")
+```
